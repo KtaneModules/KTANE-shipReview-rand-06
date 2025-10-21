@@ -1,0 +1,10 @@
+{
+  "name": "shipReview-Editor",
+  "references": [
+    "shipReview"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
